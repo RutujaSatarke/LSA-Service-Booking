@@ -7,7 +7,7 @@
 **Submission Deadline**: 13th August 2026  
 **Submission Link**: https://forms.gle/YzHDkd23ApzpP2ze7  
 
-[![HabotConnect CI](https://github.com/ABHISHEKBODKHE011/LSA-Service-Booking/actions/workflows/tests.yml/badge.svg)](https://github.com/ABHISHEKBODKHE011/LSA-Service-Booking/actions)
+[![HabotConnect CI](https://github.com/RutujaSatarke/LSA-Service-Booking/actions/workflows/tests.yml/badge.svg)](https://github.com/RutujaSatarke/LSA-Service-Booking/actions)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![Django 5.2](https://img.shields.io/badge/django-5.2-green.svg)](https://www.djangoproject.com/)
 [![Test Coverage](https://img.shields.io/badge/coverage-88%25-brightgreen.svg)](pytest.ini)
@@ -302,7 +302,7 @@ Interactive Swagger API Documentation: `http://127.0.0.1:8000/api/docs/`
 ### Quickstart Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ABHISHEKBODKHE011/LSA-Service-Booking.git
+git clone https://github.com/RutujaSatarke/LSA-Service-Booking.git
 cd LSA-Service-Booking
 
 # 2. Create and activate a virtual environment

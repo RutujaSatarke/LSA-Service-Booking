@@ -1,10 +1,10 @@
 # HabotConnect - LSA Service Booking Platform
 ## Hiring Assessment Technical Presentation Outline (15 Slides)
 
-**Candidate Name**: Abhishek Bodkhe  
+**Candidate Name**: Rutuja Satarke  
 **Position**: Python Backend Developer  
-**Contact Email**: abhishek.bodkhe@example.com  
-**GitHub Repository**: https://github.com/ABHISHEKBODKHE011/LSA-Service-Booking  
+**Contact Email**: satarkerutuja71@gmail.com  
+**GitHub Repository**: https://github.com/RutujaSatarke/LSA-Service-Booking  
 **Submission Deadline**: 13th August 2026  
 **Submission Link**: https://forms.gle/YzHDkd23ApzpP2ze7  
 
@@ -12,8 +12,8 @@
 
 ### Slide 1: Title & Project Overview
 - **Title**: HabotConnect - Learning Support Assistant (LSA) Service Booking Backend
-- **Presenter**: Abhishek Bodkhe (Python Backend Developer Candidate)
-- **GitHub Repository**: https://github.com/ABHISHEKBODKHE011/LSA-Service-Booking
+- **Presenter**: Rutuja Satarke (Python Backend Developer Candidate)
+- **GitHub Repository**: https://github.com/RutujaSatarke/LSA-Service-Booking
 - **Context**: Production-grade REST API backend platform connecting parents with LSAs for children with learning difficulties and special educational needs.
 
 ---
