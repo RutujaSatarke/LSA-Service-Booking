@@ -73,9 +73,9 @@ ASGI_APPLICATION = 'config.asgi.application'
 
 
 # Database
-# Flexible engine configuration: SQLite for rapid local dev/testing if USE_SQLITE=True, PostgreSQL for production.
+# Flexible engine configuration: SQLite for rapid local dev/testing by default, PostgreSQL when USE_SQLITE=False.
 
-USE_SQLITE = os.environ.get('USE_SQLITE', 'False').lower() in ('true', '1', 't')
+USE_SQLITE = os.environ.get('USE_SQLITE', 'True').lower() in ('true', '1', 't')
 
 if USE_SQLITE:
     DATABASES = {
