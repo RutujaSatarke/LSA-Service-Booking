@@ -1,9 +1,9 @@
 # HabotConnect - LSA Service Booking Backend Platform
 
-**Candidate Name**: Abhishek Bodkhe  
+**Candidate Name**: Rutuja Satarke  
 **Position**: Python Backend Developer  
-**Contact Email**: abhishek.bodkhe@example.com  
-**GitHub Repository**: https://github.com/ABHISHEKBODKHE011/LSA-Service-Booking  
+**Contact Email**: satarkerutuja71@gmail.com 
+**GitHub Repository**: https://github.com/RutujaSatarke/LSA-Service-Booking 
 **Submission Deadline**: 13th August 2026  
 **Submission Link**: https://forms.gle/YzHDkd23ApzpP2ze7  
 
